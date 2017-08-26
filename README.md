@@ -1,4 +1,4 @@
 # ViewAnimationDemo
 Android Animation动画
 
-![](https://github.com/yehaoa/ViewAnimationDemo/raw/master/pic/a.gif)
+![](https://github.com/yechaoa/ViewAnimationDemo/raw/master/pic/a.gif)
